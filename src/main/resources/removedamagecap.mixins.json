@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "dev.kuroba.removedamagecap.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "mixins": [
+        "NightwardenBossEntityMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
